@@ -2,6 +2,7 @@
 
 A Python simulation that uses particles (balls) and physics principles to reconstruct images. Each particle interacts with gravity, collisions, and spring forces to gradually form the original image.
 
+<img width="1919" height="973" alt="Screenshot 2025-10-16 192705" src="https://github.com/user-attachments/assets/90267d4a-05d8-45de-b621-2150ca5be1c6" />
 ---
 
 ## Features
@@ -24,7 +25,3 @@ pip install pygame pillow numpy opencv-python
 
 # Run the simulation with default settings
 python main.py --image input_image.jpg --mode SPAWN
-
-
-
-<img width="1919" height="973" alt="Screenshot 2025-10-16 192705" src="https://github.com/user-attachments/assets/90267d4a-05d8-45de-b621-2150ca5be1c6" />
