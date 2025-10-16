@@ -2,6 +2,8 @@
 
 A Python simulation that uses particles (balls) and physics principles to reconstruct images. Each particle interacts with gravity, collisions, and spring forces to gradually form the original image.
 
+I designed this project to blend science and art, exploring how physics-based simulations can reconstruct images in visually compelling ways. The goal was to create a platform that is both educational and creatively inspiring, showing how computational principles can generate dynamic, evolving visuals from static data. I will continue to develop this project to create something new, innovative, and even more interactive, pushing the boundaries of particle-based visualizations.
+
 <img width="1919" height="973" alt="Screenshot 2025-10-16 192705" src="https://github.com/user-attachments/assets/90267d4a-05d8-45de-b621-2150ca5be1c6" />
 ---
 
