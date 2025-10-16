@@ -25,21 +25,6 @@ pip install pygame pillow numpy opencv-python
 # Run the simulation with default settings
 python main.py --image input_image.jpg --mode SPAWN
 
-# Optional command-line arguments:
-# --image: Path to input image (default: input_image.jpg)
-# --mode: Simulation mode (SPAWN to create particles, LOAD to load from CSV)
-# --steps: Number of simulation steps (default: 400)
-# --min-particles: Minimum particle count
-# --max-particles: Maximum particle count
-# --spring-strength: Spring force strength
-# --gravity: Gravity strength
-# --preprocess: Preprocess image for better edge and color handling
-
-# Controls:
-# S      -> Save current particle positions to CSV
-# R      -> Reset particles to target positions
-# SPACE  -> Pause/Resume simulation
-# Q/ESC  -> Quit
 
 
 <img width="1919" height="973" alt="Screenshot 2025-10-16 192705" src="https://github.com/user-attachments/assets/90267d4a-05d8-45de-b621-2150ca5be1c6" />
